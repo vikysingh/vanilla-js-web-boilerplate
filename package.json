@@ -1,0 +1,9 @@
+{
+  "name": "vanilla-web-app-boilderplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for JavaScript with tools such as webpack and babel",
+  "main": "index.js",
+  "repository": "https://github.com/vikysingh/vanilla-js-web-boilerplate.git",
+  "author": "Vikram Singh",
+  "license": "MIT"
+}
